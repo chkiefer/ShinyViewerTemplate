@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinyViewer", "EffectLiteR_windows\ShinyViewer.csproj", "{D281771C-F782-46DF-B342-74F0E45D38B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinyViewer", "ShinyViewer\ShinyViewer.csproj", "{D281771C-F782-46DF-B342-74F0E45D38B6}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EffectLiteR Installer", "GUIsInstaller\GUIsInstaller.vdproj", "{0BC40530-3BF1-4FCF-91E8-28C3F505617E}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShinyViewerInstaller", "ShinyViewerInstaller\ShinyViewerInstaller.vdproj", "{0BC40530-3BF1-4FCF-91E8-28C3F505617E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "installPackages", "installPackages\installPackages.csproj", "{7A05FC1F-45C0-45B6-B3E1-5D646ED53D49}"
 EndProject
